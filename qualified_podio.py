@@ -20,3 +20,6 @@ def podio_olimpico(a,b,c):
       return   f"1 - {c} minutos\n2 - {a} minutos\n3 - {b} minutos\n"
     else:
       return   f"1 - {c} minutos\n2 - {b} minutos\n3 - {a} minutos\n"
+
+
+print('modificacao')
